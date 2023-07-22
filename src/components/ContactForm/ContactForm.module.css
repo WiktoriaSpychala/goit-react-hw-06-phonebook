@@ -1,0 +1,8 @@
+.name, .number {
+    margin: 5px 0px;
+}
+
+.addContactBtn {
+    display: block;
+    margin: 10px 0px;
+}
